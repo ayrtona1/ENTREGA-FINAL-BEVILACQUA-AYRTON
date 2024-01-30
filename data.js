@@ -1,0 +1,2 @@
+// data.js
+const passwordList = [];
